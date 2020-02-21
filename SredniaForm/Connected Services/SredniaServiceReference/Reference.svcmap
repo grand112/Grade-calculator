@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5745b0bb-9bc5-4831-9c39-7b4c5a85f5cc" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52320/SredniaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SredniaService.xsd" MetadataType="Schema" ID="44228c17-d273-48a1-88e5-a96fdb35508a" SourceId="1" SourceUrl="http://localhost:52320/SredniaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="SredniaService1.xsd" MetadataType="Schema" ID="65a5e4c3-f1e5-4860-a6c8-3b1bc8c629ec" SourceId="1" SourceUrl="http://localhost:52320/SredniaService.svc?xsd=xsd0" />
+    <MetadataFile FileName="SredniaService.wsdl" MetadataType="Wsdl" ID="8a50af83-5165-47d3-854f-c13ca0b81948" SourceId="1" SourceUrl="http://localhost:52320/SredniaService.svc?wsdl" />
+    <MetadataFile FileName="SredniaService2.xsd" MetadataType="Schema" ID="209754e3-ee03-4185-a35b-1e9dbfb7d4e4" SourceId="1" SourceUrl="http://localhost:52320/SredniaService.svc?xsd=xsd2" />
+    <MetadataFile FileName="SredniaService.disco" MetadataType="Disco" ID="dcb0eae4-2b1d-4b47-99bd-8e68b1341961" SourceId="1" SourceUrl="http://localhost:52320/SredniaService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

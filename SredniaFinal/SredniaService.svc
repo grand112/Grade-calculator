@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SredniaFinal.SredniaService" CodeBehind="SredniaService.svc.cs" %>

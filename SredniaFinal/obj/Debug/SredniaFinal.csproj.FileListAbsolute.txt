@@ -1,0 +1,12 @@
+C:\Users\lukas\Desktop\SredniaFinal\SredniaFinal\bin\SredniaFinal.dll.config
+C:\Users\lukas\Desktop\SredniaFinal\SredniaFinal\bin\SredniaFinal.dll
+C:\Users\lukas\Desktop\SredniaFinal\SredniaFinal\bin\SredniaFinal.pdb
+C:\Users\lukas\Desktop\SredniaFinal\SredniaFinal\obj\Debug\SredniaFinal.dll
+C:\Users\lukas\Desktop\SredniaFinal\SredniaFinal\obj\Debug\SredniaFinal.pdb
+C:\Users\lukas\Desktop\SredniaFinal\SredniaFinal\obj\Debug\SredniaFinal.csprojAssemblyReference.cache
+C:\Users\lukas\Downloads\SredniaFinal\SredniaFinal\bin\SredniaFinal.dll.config
+C:\Users\lukas\Downloads\SredniaFinal\SredniaFinal\bin\SredniaFinal.dll
+C:\Users\lukas\Downloads\SredniaFinal\SredniaFinal\bin\SredniaFinal.pdb
+C:\Users\lukas\Downloads\SredniaFinal\SredniaFinal\obj\Debug\SredniaFinal.csprojAssemblyReference.cache
+C:\Users\lukas\Downloads\SredniaFinal\SredniaFinal\obj\Debug\SredniaFinal.dll
+C:\Users\lukas\Downloads\SredniaFinal\SredniaFinal\obj\Debug\SredniaFinal.pdb
